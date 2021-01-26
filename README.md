@@ -9,7 +9,7 @@ pages | links
 Mindset | https://judyal-taweel.github.io/reading-notes02/Mindset
 Read02a | https://judyal-taweel.github.io/reading-notes02/Read02a
 Read02b | https://judyal-taweel.github.io/reading-notes02/Read02b
-
+HTML | https://judyal-taweel.github.io/reading-notes02/HTML
 
 
 
