@@ -66,7 +66,7 @@ create a single value from one or more values.
 1. LOGICAL OPERATORS
    `buy= (5 > 3) && (2 < 4);`
 
- #### Example on using arithmatic operation in java scirept:
+#### Example on using arithmatic operation in java scirept:
 
 `var subtotal (13 + 1) * 5; II Subtotal is 70`
 
