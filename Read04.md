@@ -12,7 +12,7 @@ class attribute with a value of note.
 - Program: rules or instructions the browser can follow
 - React: to events triggered by the user or browser 
 
-#####like:
+##### like:
 - A button is pressed
 - A link is clicked (or tapped) on
 - A cursor hovers over an element
@@ -20,7 +20,7 @@ class attribute with a value of note.
 - An interval of time has passed
 - A web page has finished loading
 
-####Start with what you want to achieve, and break
+#### Start with what you want to achieve, and break
 that down into smaller steps: 
 
 1. DEFINE THE GOAL
