@@ -4,14 +4,14 @@
 The color property allows you to specify the color of text inside
 an element. You can specify any color in CSS in one of three ways:
 
-1. rgb values
+2. rgb values
 
 `p {`
 `color: rgb(100,100,90);}`
 
  how much red, green and blue are used to make it up.
 
-1. hex codes
+3. hex codes
 
 `h2 {`
 `color: #ee3e80;}`
@@ -75,12 +75,12 @@ represented as a color circle
 where the angle represents the
 color.
 
-1. saturation
+2. saturation
 
 Saturation is the amount of
 gray in a color.
 
-1. lightness
+3. lightness
 
 Lightness is the amount of
 white (lightness) or black
