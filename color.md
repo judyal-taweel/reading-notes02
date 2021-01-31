@@ -4,14 +4,14 @@
 The color property allows you to specify the color of text inside
 an element. You can specify any color in CSS in one of three ways:
 
-2. rgb values
+1. rgb values
 
 `p {`
 `color: rgb(100,100,90);}`
 
  how much red, green and blue are used to make it up.
 
-3. hex codes
+2. hex codes
 
 `h2 {`
 `color: #ee3e80;}`
@@ -19,7 +19,7 @@ an element. You can specify any color in CSS in one of three ways:
 These are six-digit codes that represent the amount of red,
 green and blue in a color.
 
-1. color names
+3. color names
 
 `h1 {`
 `color: DarkCyan;}`
