@@ -1,5 +1,5 @@
-
-#### My name is Judy alTaweel ,I am 23 years ago, I studied computer science at yarmouk university .
+# Code 201 Reading Notes
+#### My name is Judy alTaweel ,I am 23 years ago, I studied computer science at yarmouk university ,I joined this course to enhance my skills.
 #### My gitHub :
 [My-github](https://github.com/judyal-taweel)
 :black_heart:
