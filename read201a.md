@@ -14,7 +14,6 @@ A paragraph always starts on a new line, and is usually a block of text.
 Links
 <a href="#">This is a link</a>
 
-![body](imgs/body.PNG)
 
 You met the <body> element in the first example we created. Everything inside this element is
 shown inside the main browser window.
@@ -25,3 +24,6 @@ window that is highlighted in blue on the opposite page). You will usually find 
 element inside the `<head>` element.
 
 
+![body](imgs/body.PNG)
+
+[complete the next page](https://judyal-taweel.github.io/reading-notes02/read201b)

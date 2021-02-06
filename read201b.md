@@ -3,8 +3,6 @@
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a
 browser which version of HTML the page is using.
 
-![DOCTYPE](imgs/doctype.PNG)
-
 ### Comments in HTML
 
 `<!-- -->`
@@ -48,5 +46,6 @@ iframe is an abbreviation of inline frame.
 
 ### Escape Characters
 
-![Escape](escape.PNG)
+![Escape characters](imgs/escape.PNG)
 
+[coplete the next page](https://judyal-taweel.github.io/reading-notes02/read201c)
