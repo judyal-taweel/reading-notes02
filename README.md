@@ -2,6 +2,9 @@
 #### My name is Judy alTaweel ,I am 23 years ago, I studied computer science at yarmouk university ,I joined this course to enhance my skills.
 #### My gitHub :
 [My-github](https://github.com/judyal-taweel)
+[My-canvas](https://canvas.instructure.com/profile)
+[My-Linkedin](https://www.linkedin.com/in/judy-bataineh-9a832a1b7/)
+[My-slack](https://app.slack.com/client/TNGRRLUMA/G01MCKS0JG1/user_profile/U01KT1RF5U1)
 :black_heart:
 
 pages | links
