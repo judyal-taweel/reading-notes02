@@ -22,6 +22,7 @@ color |   [color](https://judyal-taweel.github.io/reading-notes02/color)
 # Code 102 Reading Notes
 
 pages | links
+------| -----
 reading201 | [read201](https://judyal-taweel.github.io/reading-notes02/read201)
 reading201 | []()
 reading201 | []()
