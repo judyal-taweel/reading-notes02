@@ -23,9 +23,9 @@ color |   [color](https://judyal-taweel.github.io/reading-notes02/color)
 
 pages | links
 ------| -----
-reading201 | [read201](https://judyal-taweel.github.io/reading-notes02/read201)
-reading02-201 | [read02-201](https://judyal-taweel.github.io/reading-notes02/read02-201)
-reading201 | []()
+read201 | [read201](https://judyal-taweel.github.io/reading-notes02/read201)
+read02-201 | [read02-201](https://judyal-taweel.github.io/reading-notes02/read02-201)
+read03-201 | [read03-201](https://judyal-taweel.github.io/reading-notes02/read03-201)
 reading201 | []()
 reading201 | []()
 reading201 | []()
