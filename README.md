@@ -34,7 +34,7 @@ read08-201 | [read08-201](https://judyal-taweel.github.io/reading-notes02/read08
 read09-201 | [read09-201](https://judyal-taweel.github.io/reading-notes02/read09-201)
 read10-201 | [read10-201](https://judyal-taweel.github.io/reading-notes02/read10-201)
 read11-201 | [read11-201](https://judyal-taweel.github.io/reading-notes02/read11-201)
-reading201 | []()
+read13-201 | [read13-201](https://judyal-taweel.github.io/reading-notes02/read13-201)
 reading201 | []()
 reading201 | []()
 reading201 | []()
