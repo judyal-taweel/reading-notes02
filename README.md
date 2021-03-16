@@ -7,7 +7,8 @@
 [My-slack](https://app.slack.com/client/TNGRRLUMA/G01MCKS0JG1/user_profile/U01KT1RF5U1)
 :black_heart:
 
-# Code 102 Reading Notes
+
+# Code 102 - Intro to Software Development
 
 pages | links
 ----- | -----
@@ -19,7 +20,7 @@ read04 |  [read04](https://judyal-taweel.github.io/reading-notes02/read04)
 Read05 |  [Read05](https://judyal-taweel.github.io/reading-notes02/Read05)
 color |   [color](https://judyal-taweel.github.io/reading-notes02/color)
 
-# Code 102 Reading Notes
+# Code 201 - Foundations of Software Development
 
 pages | links
 ------| -----
@@ -35,10 +36,22 @@ read09-201 | [read09-201](https://judyal-taweel.github.io/reading-notes02/read09
 read10-201 | [read10-201](https://judyal-taweel.github.io/reading-notes02/read10-201)
 read11-201 | [read11-201](https://judyal-taweel.github.io/reading-notes02/read11-201)
 read13-201 | [read13-201](https://judyal-taweel.github.io/reading-notes02/read13-201)
-reading201 | []()
-reading201 | []()
-reading201 | []()
 
+# Code 301 - Intermediate Software Development
 
+pages | links
+------| -----
+read01-301 | [read01-301]()
+read02-301 | [read02-301]()
+read03-301 | [read03-301]()
+read04-301 | [read04-301]()
+read05-301 | [read05-301]()
+read06-301 | [read06-301]()
+read07-301 | [read07-301]()
+read08-301 | [read08-301]()
+read09-301 | [read09-301]()
+read10-301 | [read10-301]()
+read11-301 | [read11-301]()
+read13-301 | [read12-301]()
 
 
