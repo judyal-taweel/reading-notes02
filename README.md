@@ -41,7 +41,7 @@ read13-201 | [read13-201](https://judyal-taweel.github.io/reading-notes02/read13
 
 pages | links
 ------| -----
-read01-301 | [read01-301]()
+read01-301 | [read01-301](https://judyal-taweel.github.io/reading-notes02/read01-301)
 read02-301 | [read02-301]()
 read03-301 | [read03-301]()
 read04-301 | [read04-301]()
