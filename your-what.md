@@ -34,11 +34,8 @@ i like what i doing
 * everything 10/10
 # MAKE ROOM FOR WHAT YOU LOVE
 ## Think about your purpose. What do you need more or less of to achieve it? Refer to your answers in #1 for guidance.
-| MAX               |  MIN                    |
-|-----------------------------------|------------------------------  |
-| 1- FullStack Dev                 | MERN Dev                               |
-|                                   |                                |
-| 2- OWN my Company                   | CEO                              |
-|                                   |                                |
-| 3-Uniqe Software | PopularSoftware                               |
-|
+ MAX               |  MIN                    
+------------------ |---------- 
+ 1- FullStack Dev  | MERN Dev                       
+ 2- OWN my Company | CEO                                                            
+ 3-Uniqe Software  | PopularSoftware                               
