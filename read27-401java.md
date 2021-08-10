@@ -33,10 +33,13 @@ When the current activity starts another, the new activity is pushed on the top 
 
 If you have a relatively small collection of key-values that you'd like to save, you should use the SharedPreferences APIs. A SharedPreferences object points to a file containing key-value pairs and provides simple methods to read and write them. Each SharedPreferences file is managed by the framework and can be private or shared.
 
-```Context context = getActivity();
+```
+Context context = getActivity();
 SharedPreferences sharedPref = context.getSharedPreferences(
         getString(R.string.preference_file_key), Context.MODE_PRIVATE);
 ```
+
+
 
 ```
 SharedPreferences sharedPref = getActivity().getPreferences(Context.MODE_PRIVATE);
@@ -50,6 +53,8 @@ SharedPreferences.Editor editor = sharedPref.edit();
 editor.putInt(getString(R.string.saved_high_score_key), newHighScore);
 editor.apply();
 ```
+
+
 - Read from shared preferences
 
 ```
